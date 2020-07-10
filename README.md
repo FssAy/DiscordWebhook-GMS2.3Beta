@@ -1,6 +1,6 @@
 # DiscordWebhook-GMS2.3Beta
  GameMaker Studio 2.3Beta extension for executing Discord webhooks.
-Build on IDE v2.2.5.481 <br>
+Build on IDE v23.1.1.168 <br>
 [GMS 2.2 version](https://github.com/DmitrijVC/DiscordWebhook-GMS2) <br>
 [Marketplace](https://marketplace.yoyogames.com/publishers/4536/vulpes_coders)
 
